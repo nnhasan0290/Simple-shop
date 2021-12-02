@@ -1054,8 +1054,6 @@ span.onsale {
   font-size: 19px;
 }
 .shp-all-content-wrapper {
-  content: "";
-  display: table;
   margin-top: 4%;
 }
 .shp-all-content-wrapper main {
